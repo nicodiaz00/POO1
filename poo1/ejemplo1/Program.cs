@@ -10,6 +10,12 @@ namespace ejemplo1
     {
         static void Main(string[] args)
         {
+            Persona personaUno = new Persona();
+
+            personaUno.setEdad(20);
+
+            Console.WriteLine("la edad es" + personaUno.getEdad());
+            Console.ReadKey();
         }
     }
 }
