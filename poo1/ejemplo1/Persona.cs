@@ -9,7 +9,7 @@ namespace ejemplo1
     internal class Persona
     {
         //atributos o miembros
-         private int edad;
+        private int edad;
         private float sueldo;
         private string nombre;
 
