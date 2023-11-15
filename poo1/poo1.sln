@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejemploConstructor", "ejemp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejemploMetodos", "ejemploMetodos\ejemploMetodos.csproj", "{4F8B54C9-F7EE-4C7E-A5FD-94F2FB8DA5F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejemploDosMetodos", "ejemploDosMetodos\ejemploDosMetodos.csproj", "{F7E07395-BCFC-485B-A8A9-51F66AB12CDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{4F8B54C9-F7EE-4C7E-A5FD-94F2FB8DA5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F8B54C9-F7EE-4C7E-A5FD-94F2FB8DA5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F8B54C9-F7EE-4C7E-A5FD-94F2FB8DA5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7E07395-BCFC-485B-A8A9-51F66AB12CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E07395-BCFC-485B-A8A9-51F66AB12CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E07395-BCFC-485B-A8A9-51F66AB12CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E07395-BCFC-485B-A8A9-51F66AB12CDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

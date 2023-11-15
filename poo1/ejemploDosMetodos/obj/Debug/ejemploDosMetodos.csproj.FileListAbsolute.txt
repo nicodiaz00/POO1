@@ -1,0 +1,8 @@
+C:\Users\Nico\Documents\c#nivelDos\POO1\poo1\ejemploDosMetodos\bin\Debug\ejemploDosMetodos.exe.config
+C:\Users\Nico\Documents\c#nivelDos\POO1\poo1\ejemploDosMetodos\bin\Debug\ejemploDosMetodos.exe
+C:\Users\Nico\Documents\c#nivelDos\POO1\poo1\ejemploDosMetodos\bin\Debug\ejemploDosMetodos.pdb
+C:\Users\Nico\Documents\c#nivelDos\POO1\poo1\ejemploDosMetodos\obj\Debug\ejemploDosMetodos.csproj.AssemblyReference.cache
+C:\Users\Nico\Documents\c#nivelDos\POO1\poo1\ejemploDosMetodos\obj\Debug\ejemploDosMetodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nico\Documents\c#nivelDos\POO1\poo1\ejemploDosMetodos\obj\Debug\ejemploDosMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Documents\c#nivelDos\POO1\poo1\ejemploDosMetodos\obj\Debug\ejemploDosMetodos.exe
+C:\Users\Nico\Documents\c#nivelDos\POO1\poo1\ejemploDosMetodos\obj\Debug\ejemploDosMetodos.pdb
