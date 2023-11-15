@@ -1,0 +1,8 @@
+C:\Users\Nico\Documents\c#nivelDos\POO1\poo1\ejemploConstructor\bin\Debug\ejemploConstructor.exe.config
+C:\Users\Nico\Documents\c#nivelDos\POO1\poo1\ejemploConstructor\bin\Debug\ejemploConstructor.exe
+C:\Users\Nico\Documents\c#nivelDos\POO1\poo1\ejemploConstructor\bin\Debug\ejemploConstructor.pdb
+C:\Users\Nico\Documents\c#nivelDos\POO1\poo1\ejemploConstructor\obj\Debug\ejemploConstructor.csproj.AssemblyReference.cache
+C:\Users\Nico\Documents\c#nivelDos\POO1\poo1\ejemploConstructor\obj\Debug\ejemploConstructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nico\Documents\c#nivelDos\POO1\poo1\ejemploConstructor\obj\Debug\ejemploConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Documents\c#nivelDos\POO1\poo1\ejemploConstructor\obj\Debug\ejemploConstructor.exe
+C:\Users\Nico\Documents\c#nivelDos\POO1\poo1\ejemploConstructor\obj\Debug\ejemploConstructor.pdb
