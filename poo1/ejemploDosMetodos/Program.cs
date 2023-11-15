@@ -22,7 +22,7 @@ namespace ejemploDosMetodos
 
             Console.WriteLine("la cantidad ahora es " + botellaNueva.CantidadActual);
             Console.WriteLine("Ahora debe pagar " + botellaNueva.recargar());
-
+            Console.WriteLine(botellaNueva.GetHashCode());
             Console.ReadKey();
         }
     }
